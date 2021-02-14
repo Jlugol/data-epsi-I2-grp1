@@ -35,13 +35,13 @@ Réplications : 2
 Temps de rétention : 1 heure
 ## Asil-stats
 Partitionnement : 350 partitions, correspond au nombre d'asiles  
-Réplications : 2
+Réplications : 2  
 Temps de rétention : 1 heure
 ## Prog-antwitter
 Partitionnement : 100 partitions, correspond au nombre maximum de zombies ou de patients immunisés sortant d'un asile. Là aussi 350 partitions sont envisageables.  
-Réplications : 2
+Réplications : 2  
 Temps de rétention : 1 heure
 ## Francie-stats
 Partitionnement : 1 seule partition, pas de raison d'en faire plus.  
-Réplications : 2
+Réplications : 2  
 Temps de rétention : 1 heure
