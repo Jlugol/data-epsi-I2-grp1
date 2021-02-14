@@ -38,7 +38,7 @@ Partitionnement : 350 partitions, correspond au nombre d'asiles
 Réplications : 2  
 Temps de rétention : 1 heure
 ## Prog-antwitter
-Partitionnement : 100 partitions, correspond au nombre maximum de zombies ou de patients immunisés sortant d'un asile. Là aussi 350 partitions sont envisageables.  
+Partitionnement : 100 partitions, correspond au nombre maximum de zombies sortant d'un asile et pouvant être consommés par l'institut Pastiche. Là aussi 350 partitions sont envisageables.  
 Réplications : 2  
 Temps de rétention : 1 heure
 ## Francie-stats
